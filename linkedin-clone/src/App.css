@@ -1,0 +1,16 @@
+.App {
+  background-color: #f3f2ef;
+  display: flex;
+  flex-direction: column;
+}
+
+.App_body {
+  display: flex;
+  flex: 1;
+  align-items: flex-start;
+  margin-top: 35px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
